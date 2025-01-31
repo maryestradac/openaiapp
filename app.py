@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://www.fau.edu/public-affairs/images/florida-atlantic-logo-wordmark.png", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
