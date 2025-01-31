@@ -1,4 +1,5 @@
 import streamlit as st
+https://www.fau.edu/public-affairs/images/spirit-mark3.png
 import requests
 import json
 import base64
